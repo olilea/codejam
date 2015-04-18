@@ -6,7 +6,7 @@ import java.util.*;
 /**
  * @author Oliver Lea
  */
-public class InfiniteHouseOfPancakes {
+public class InfiniteHouseOfPancakesWRONG {
 
     public static void main(String[] args) throws IOException {
         InputStreamReader isReader = new InputStreamReader(System.in);
